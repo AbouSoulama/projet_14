@@ -1,0 +1,63 @@
+.a{
+    background-image: url('lo.jpg');
+    height: 900px;
+}
+.contenu{
+    display: flex;
+    justify-content: space-between;
+}
+.m{
+    margin-left: 15px;
+    margin-top: 10px;
+
+    
+    
+}
+.ele{
+    margin: 10px;
+    font-size: 25px;
+    color: rgb(245, 233, 233);
+}
+.elem{
+    margin-top: 200px;
+    margin-left: 30%;
+    
+}
+.G{
+    font-size: 100px;
+    
+}
+.h{
+    margin-left: 200px;
+}
+.botton{
+    margin-left: 160px;
+    background-color: rgb(21, 190, 241);
+    border-radius: 30px;
+    font-size: 30px;
+    width: 255px;
+}
+.blan{
+    color: white;
+}
+p{
+    font-size: 20px;
+}
+.trois{
+    display: flex;
+    justify-content: space-around;
+   
+}
+.sect_2{
+    margin-right: 200px;
+    margin-left: 200px;
+
+}
+.di{
+    display: flex;
+    justify-content: center;
+}
+.taille{
+    width: 250x;
+    height: 250px;
+}
